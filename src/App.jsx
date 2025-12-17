@@ -1,8 +1,8 @@
-import MainPage from "./assignment2/MainPage";
+import Counter from "./Counter";
 
 function App() {
   return (
-    <MainPage />
+    <Counter />
   );
 }
 
