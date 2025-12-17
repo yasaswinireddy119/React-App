@@ -1,9 +1,9 @@
-import Calculator from "./assignment3/Calculator";
+import UserProfile from "./ass5/UserProfile";
 
 function App() {
   return (
     <>
-      <Calculator />
+      <UserProfile />
     </>
   );
 }
